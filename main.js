@@ -72,3 +72,8 @@ $(function() {
   })
 
 });
+
+function oglocker(){
+  window.location.href="https://glitchandgrind.wixsite.com/gamesverification";
+  
+}
