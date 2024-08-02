@@ -74,6 +74,6 @@ $(function() {
 });
 
 function oglocker(){
-  window.location.href="https://glitchandgrind.wixsite.com/gamesverification";
-  
+
+        window.location.href = "https://verifyhere.xyz/cl/i/6dxw9m";  
 }
